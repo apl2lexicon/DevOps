@@ -1,0 +1,2 @@
+cd \DevOps
+git pull
