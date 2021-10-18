@@ -1,0 +1,55 @@
+{
+    "id": "1",
+    "CustomerCathegory": "3",
+    "Season": "3",
+    "Cathegory": "6",
+    "Brand": "3",
+    "Color": "3",
+    "Size": "3",
+    "InStock": "50",
+    "Price": "399"
+}
+{
+    "id": "2",
+    "CustomerCathegory": "3",
+    "Season": "4",
+    "Cathegory": "10",
+    "Brand": "2",
+    "Color": "1",
+    "Size": "4",
+    "InStock": "75",
+    "Price": "99"
+}
+{
+    "id": "3",
+    "CustomerCathegory": "4",
+    "Season": "3",
+    "Cathegory": "10",
+    "Brand": "4",
+    "Color": "1",
+    "Size": "2",
+    "InStock": "50",
+    "Price": "69"
+}
+{
+    "id": "4",
+    "CustomerCathegory": "2",
+    "Season": "4",
+    "Cathegory": "3",
+    "Brand": "1",
+    "Color": "6",
+    "Size": "7",
+    "InStock": "25",
+    "Price": "899"
+}
+{
+    "id": "5",
+    "CustomerCathegory": "5",
+    "Season": "3",
+    "Cathegory": "11",
+    "Brand": "2",
+    "Color": "1",
+    "Size": "1",
+    "InStock": "85",
+    "Price": "199"
+}
